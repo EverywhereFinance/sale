@@ -15,7 +15,7 @@
 |Fantom|0x21BdA83710B1FBa0CBbb2119B24dCbC21C4F834f|USDC,DAI|
 
 # Conditions
-  - Max : $1,000,000
+  - Max : $2,000,000 ( 1,000,000 $REUNI )
   - Softcap : $0
   - Duration : Two weeks
   - Lock period : 75% unlocked after the end of the sale, 25% from the 29 June
