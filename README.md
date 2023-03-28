@@ -19,6 +19,7 @@
   - Softcap : $0
   - Duration : Two weeks
   - Lock period : 75% unlocked after the end of the sale, 25% from the 29 June
+  - Participation prohibited for users from: Crimea region of Ukraine, Cuba, North Korea, United States, Iran, and Syria.
   
 # Support
   - Twitter : https://twitter.com/EverywhereFi
